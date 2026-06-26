@@ -1,6 +1,20 @@
 <div align='center'>
+  
   <img src='./imageleg.png' alt='image' width='250px'/>
 </div>
+<h1 align="center">
+Hi 👋, I'm Amir Mohammad Bahrami
+</h1>
+
+<h3 align="center">
+Software Engineering Student | AI Enthusiast | Backend Developer
+</h3>
+<p align="center">
+Passionate about Artificial Intelligence, Backend Development,
+Machine Learning and Software Architecture.
+Currently learning Django, NLP and AI Systems while building
+real-world projects.
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,gitlab,docker,php,py,stackoverflow,vscode,css,html,django," />
