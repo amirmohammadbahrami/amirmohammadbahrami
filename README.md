@@ -1,2 +1,2 @@
 <div align='center'>
-  <img src='./imageleh.png'/>
+  <img src='./imageleg.png' alt='image'/>
